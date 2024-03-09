@@ -36,7 +36,7 @@ GEM
     heroku-api (0.4.2)
       excon (~> 0.45)
       multi_json (~> 1.8)
-    json (1.8.2)
+    json (2.3.0)
     launchy (2.4.3)
       addressable (~> 2.3)
     method_source (0.8.2)
